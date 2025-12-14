@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\Terminalkasowy\Terminalkasowy\bin\Debug\net8.0\Terminalkasowy.exe
+C:\Users\DELL\source\repos\Terminalkasowy\Terminalkasowy\bin\Debug\net8.0\Terminalkasowy.deps.json
+C:\Users\DELL\source\repos\Terminalkasowy\Terminalkasowy\bin\Debug\net8.0\Terminalkasowy.runtimeconfig.json
+C:\Users\DELL\source\repos\Terminalkasowy\Terminalkasowy\bin\Debug\net8.0\Terminalkasowy.dll
+C:\Users\DELL\source\repos\Terminalkasowy\Terminalkasowy\bin\Debug\net8.0\Terminalkasowy.pdb
+C:\Users\DELL\source\repos\Terminalkasowy\Terminalkasowy\obj\Debug\net8.0\Terminalkasowy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\Terminalkasowy\Terminalkasowy\obj\Debug\net8.0\Terminalkasowy.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Terminalkasowy\Terminalkasowy\obj\Debug\net8.0\Terminalkasowy.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Terminalkasowy\Terminalkasowy\obj\Debug\net8.0\Terminalkasowy.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Terminalkasowy\Terminalkasowy\obj\Debug\net8.0\Terminalkasowy.dll
+C:\Users\DELL\source\repos\Terminalkasowy\Terminalkasowy\obj\Debug\net8.0\refint\Terminalkasowy.dll
+C:\Users\DELL\source\repos\Terminalkasowy\Terminalkasowy\obj\Debug\net8.0\Terminalkasowy.pdb
+C:\Users\DELL\source\repos\Terminalkasowy\Terminalkasowy\obj\Debug\net8.0\Terminalkasowy.genruntimeconfig.cache
+C:\Users\DELL\source\repos\Terminalkasowy\Terminalkasowy\obj\Debug\net8.0\ref\Terminalkasowy.dll
